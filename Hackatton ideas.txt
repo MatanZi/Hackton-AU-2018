@@ -1,0 +1,18 @@
+Implementation of a "chatbot" in JAVA.
+
+https://howtodoinjava.com/ai/java-aiml-chatbot-example/
+
+A Chatbot is an application designed to simulate the conversation with human users, especially over the Internet.
+
+Internally it uses any NLP (Natural Language Processing) system to interpret the human interactions and reply back with meaningful information.
+
+AIML (Artificial Intelligence Markup Language) is an XML dialect for creating natural language software agents. It contains the basic rules which Natural Language Understanding (NLU) unit uses internally. It can be think of as a heart of the engine. The more rules we add in AIML – the more intelligent our Chatbot will be.
+
+Chatscript
+SQL
+Android studio : for the ariel application (gui).
+Update database of the university.
+Tcheck which language and if not match return "the language not match"
+from the human question to the sql query.
+From the sql query to the human answer.
+From the human question to question without mistakes.
